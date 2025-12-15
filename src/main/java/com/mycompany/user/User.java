@@ -6,6 +6,7 @@ public class User {
     private float weight;
     private int height;
     
+    
     public User (String name, int age, float weight, int height) {
         this.name = name;
         this.age = age;

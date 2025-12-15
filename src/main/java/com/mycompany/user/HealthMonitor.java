@@ -65,7 +65,7 @@ class bmiCalculator{
     }
 }
 
-//function for heart rate classification
+//func for the hr classification
 class heartRateClassifier{
     public String heartRateCategory(int heartRate){
         if (heartRate < 60){
